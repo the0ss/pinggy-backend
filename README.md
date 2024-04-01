@@ -9,7 +9,7 @@ A simple backend project to filter request based on header information.
 
 1. Clone this repository.
 ```
-git clone <github_repo_url>
+git clone https://github.com/the0ss/pinggy-backend.git
 ```
 2. Open any IDE eg. VSCode
 
